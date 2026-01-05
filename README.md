@@ -25,7 +25,7 @@ Automate a workflow on a web application to demonstrate your Selenium expertise 
 - ChromeDriver configured in system PATH
 
 ## How to Execute
-1. Clone the repository or unzip the project
+1. Clone the repository 
 2. Open the project in IntelliJ/Eclipse
 3. Run `TestRunner.java` as TestNG test
 
